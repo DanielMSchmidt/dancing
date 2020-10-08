@@ -2,53 +2,54 @@
 
 ## Folge
 
-- Promenade into right lunge
+- Link (5678)
+- Promenade into right lunge (1**2**34&56**7**81)
     ** Fokus: Shape
-- Stop Lock
+- Stop Lock (23&45)
     ** Fokus: Rotation
-- Telespin
+- Telespin (678&12)
     ** Fokus: Rotation
-- Outside Change
+- WW Linksdrehung in Outside Change (34&56)
     ** Fokus: Shape
-- Argentine Taps
+- Argentine Taps (78&12)
     ** Fokus: Bewegung
-- Chase und Achsen in Sidelock
+- Chase und Achsen in Argintine step in Sidelock (34567812&34&)
     ** Fokus: Rotation
-- Fallaway
+- Fallaway (5678)
     ** Fokus: Bewegung
-- Locks
+- Locks (12&3&4)
     ** Fokus: Shape
-- Same Foot
+- Same Foot (5)
     ** Fokus: Drop
-- Telespins
+- Telespins (678123)
     ** Fokus: Rotation
-- Oversway
+- Oversway (4**5**678)
     ** Fokus: Drop
-- Samefoot in Kontracheck
+- Samefoot in Kontracheck (12345678)
     ** Fokus: Shape
-- Slip Pivot in Achsen, endend in Promenade
+- Slip Pivot in Achsen, endend in Promenade  (1234)
     ** Fokus: Rotation
-- Telemark
+- Telemark (567&8)
     ** Fokus: Drop / Shape der Dame
-- Double Check
+- Double Check (12&34)
     ** Fokus: Rotation
-- Linksachsen
+- Linksachsen (5678)
     ** Fokus: Rotation
-- Chasse
+- Chasse (1**2**34&)
     ** Fokus: Bewegung
-- Lockstep
+- Lockstep (56&78)
     ** Fokus: Bewegung
-- Telemark in Fallaway
+- Telemark in Fallaway (1&234)
     ** Fokus: Drop / Shape der Dame
-- Madis Abel
+- Madis Abel (56**7**8**1**2**3**&4&5)
     ** Fokus: Rotation
-- Beobachten
+- Beobachten (6781234)
     ** Fokus: Ruhe
-- Synkopierter Rückfall	
+- Synkopierter Rückfall	(56&7)
     ** Fokus: Bewegung
-- Back Check
+- Gelaufene Linksdrehung in Back Check (8&12&34)
     ** Fokus: Shape
-- Linksachsen
+- Linksachsen (5678)
     ** Fokus: Rotation
 - Leftwhisk
     ** Fokus: Shape
